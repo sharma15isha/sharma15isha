@@ -2,7 +2,7 @@
 <!--                     HEADER                             -->
 <!-- ===================================================== -->
 
-<h1 align="center">Hiiii , I'm Isha Sharma</h1>
+<h1 align="center">Hey , I'm Isha Sharma</h1>
 
 <h3 align="center">
 Third Year B.Tech Computer Science Engineering Student at Chitkara University
