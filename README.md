@@ -106,6 +106,20 @@ Third Year B.Tech Computer Science Engineering Student at Chitkara University
 </p>
 
 ---
+<!-- ===================================================== -->
+<!--                   GITHUB STREAK                       -->
+<!-- ===================================================== -->
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sharma15isha&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
+
+---
 
 # 🐍 Contribution Snake
 
