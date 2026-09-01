@@ -100,7 +100,7 @@ Third Year B.Tech Computer Science Engineering Student at Chitkara University
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sharma15isha&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sharma15isha&bg_color=0D1117&color=7F5AF0&line=7F5AF0&point=FFFFFF&area_color=7F5AF0&area=true&hide_border=true"
     alt="GitHub Contribution Graph"
   />
 </p>
